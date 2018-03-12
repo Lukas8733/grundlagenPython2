@@ -1,2 +1,3 @@
-# primzahlen
-# Funktion: check if given numbers is prime
+ # primzahlen
+ #Funktion: check if given number is prime
+ #Lukas
