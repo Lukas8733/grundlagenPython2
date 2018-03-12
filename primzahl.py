@@ -1,3 +1,3 @@
- # primzahlen
- #Funktion: check if given number is prime
- #Lukas
+# primzahlen
+# Funktion: check if given numbers is prime
+ #Wetter heute : sonnig bis wechselhaft
