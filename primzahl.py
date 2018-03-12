@@ -1,2 +1,2 @@
 # primzahlen
-Funktion: check if given numbers is prime
+# Funktion: check if given numbers is prime
