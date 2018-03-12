@@ -9,7 +9,7 @@ zahl2 = int(zahl2)
 summe1 = zahl1+zahl2
 summe2 = zahl1-zahl2
 summe3 = zahl1*zahl2
-summe4 = zahl1/zahl2
+
 
 
 if(aktion == "+"):
@@ -18,5 +18,10 @@ if(aktion == "-"):
     print("Das Ergebnis von", zahl1,"-", zahl2,"=", summe2)
 if(aktion == "*"):
     print("Das Ergebnis von", zahl1,"*", zahl2,"=", summe3)
-if(aktion == "/"):
+
+if(aktion== "/"):
+    summe4 = zahl1/zahl2
     print("Das Ergebnis von", zahl1,"/", zahl2,"=", summe4)
+    if(zahl2 == 0):
+        summe4 = zahl1/zahl2
+        print("Man darf durch null nich dividieren")
